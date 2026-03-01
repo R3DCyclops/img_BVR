@@ -3,18 +3,18 @@
 	#########Program Version 1.0.nt.BREV########
 	############################################
 
-Author: m0reslav
-	moreslav.ru
-		https://github.com/R3DCyclops
+	Author: m0reslav
+		moreslav.ru
+			https://github.com/R3DCyclops
 
-Processing and parsing of .img files are based on the gtaLib module from DragonFF (https://github.com/Parik27/DragonFF )
+	Processing and parsing of .img files are based on the gtaLib module from DragonFF (https://github.com/Parik27/DragonFF )
 
-You may distribute this program anywhere; please remember to credit the author.
-Thank you <3
+	You may distribute this program anywhere; please remember to credit the author.
+	Thank you <3
 
-Program for working with .img .dff .txd files
+	Program for working with .img .dff .txd files
 
-Functionality:
+	Functionality:
 
 	.img Batch
 		Allows batch rendering of all .dff models from an .img file (or from a pre-extracted folder)
@@ -53,10 +53,10 @@ Functionality:
 		*Convenient .img viewer for viewing .dff models
 		
      Checkboxes:
-  Auto-search textures - uses the same smart texture search algorithm as in .img Batch
-  Manual texture selection - allows manually specifying a desired .txd file before selecting a model
-  No textures (gray model) - model will be loaded without texture matching
-   ***Texture can be added manually while viewing the model
+ 	 Auto-search textures - uses the same smart texture search algorithm as in .img Batch
+ 	 Manual texture selection - allows manually specifying a desired .txd file before selecting a model
+ 	 No textures (gray model) - model will be loaded without texture matching
+ 	  ***Texture can be added manually while viewing the model
    
 	Select a model with the desired texture parameter, enter the Viewer
 	
@@ -65,8 +65,8 @@ Functionality:
 	In the Geometry window you can hide and show model parts (LOD is disabled by default for vehicles), if a model is identified as clothing, it will split into 3 parts (3 body types)
 	In the HUD window current model position, camera zoom, current FPS are displayed
 	
-The program may be unstable, it has barely been tested.
-Thank you :)
+	The program may be unstable, it has barely been tested.
+	Thank you :)
 <img width="995" height="822" alt="viewerwindows" src="https://github.com/user-attachments/assets/5152c5e0-d149-4e64-9bbb-bc8ac283f418" />
 <img width="697" height="579" alt="viewertab" src="https://github.com/user-attachments/assets/e257e84b-3804-43bc-843a-ecb04f3d0973" />
 <img width="700" height="579" alt="umpackertab" src="https://github.com/user-attachments/assets/1c5283bc-9cc0-4cbb-a1b1-dcd1cb4375a6" />
