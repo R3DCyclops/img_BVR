@@ -1,7 +1,7 @@
-############################################
-####Program - .img BVR (BatchViewRender)####
-#########Program Version 1.0.nt.BREV########
-############################################
+	############################################
+	####Program - .img BVR (BatchViewRender)####
+	#########Program Version 1.0.nt.BREV########
+	############################################
 
 Author: m0reslav
 	moreslav.ru
